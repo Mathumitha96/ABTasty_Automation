@@ -1,0 +1,11 @@
+{
+    "plaintext": "Buddy",
+    "mail": "Buddy@gmail.com",
+    "password1": "Azerty",
+    "password2": "&234",
+    "password3": "&azert",
+    "mailError": "Please enter a valid email",
+    "pwdError": "Please enter a valid password",
+    "captchaError": "Ohoh C3PO! Please show you’re not a robot by checking this captcha."
+
+  }
